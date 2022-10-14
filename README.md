@@ -1,6 +1,7 @@
 # vr-echizen-kokaido
  
-https://digitaltwin-echizen.github.io/vr-echizen-kokaido/
+- [DEMO](https://digitaltwin-echizen.github.io/vr-echizen-kokaido/)
+- [glb](https://digitaltwin-echizen.github.io/vr-echizen-kokaido/vr-echizen-kokaido.glb)
 
 ## License
 
